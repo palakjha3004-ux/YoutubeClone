@@ -56,4 +56,4 @@ Add JavaScript functionality
 Create video playback page
 Author
 
-Made by Palak Vats 💻
+Made by Palak Jha 💻
